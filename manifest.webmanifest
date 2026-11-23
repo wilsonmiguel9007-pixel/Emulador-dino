@@ -1,0 +1,9 @@
+{
+  "name": "DINNOEMULATOR",
+  "short_name": "DINNOEMULATOR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#030903",
+  "theme_color": "#071307",
+  "icons": []
+}
